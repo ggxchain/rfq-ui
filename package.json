@@ -25,6 +25,7 @@
     "@chain-registry/keplr": "^1.30.0",
     "@cosmjs/stargate": "^0.32.2",
     "@keplr-wallet/types": "^0.12.58",
+    "@metamask/sdk-react-ui": "^0.26.3",
     "@polkadot/api": "^10.11.2",
     "@polkadot/api-contract": "^10.11.2",
     "@polkadot/extension-dapp": "^0.46.6",

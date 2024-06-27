@@ -12,3 +12,4 @@ export const BLOCK_TIME_IN_MILLIS = 2000;
 export const MAX_DP = 8; //Integer. Max decimal precision
 export const PRICE_DP = 4; //INTEGER
 export const maxNumericInput = 10000000;
+export const INFURA_API_KEY = process.env.NEXT_INFURA_API_KEY;
